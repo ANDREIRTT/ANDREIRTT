@@ -4,3 +4,6 @@ Hi
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANDREIRTT&count_private=true&layout=compact)]()
+
+
+![](https://komarev.com/ghpvc/?username=ANDRIERTT)
